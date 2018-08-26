@@ -1,0 +1,4 @@
+First Time On Git
+Git is a version control
+Yes it is
+Nothing Heppend
